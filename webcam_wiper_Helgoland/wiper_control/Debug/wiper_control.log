@@ -1,0 +1,19 @@
+﻿  wiper_control.cpp
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(200,38): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(214,43): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(225,47): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(235,55): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(257,34): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(258,38): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(292,48): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(293,52): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(299,39): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(300,43): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(306,35): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(307,39): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(317,49): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(340,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(344,36): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(345,40): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\wiper_control\wiper_control.cpp(385,10): warning C4101: 'pVelocityIs': unreferenced local variable
+  wiper_control.vcxproj -> C:\Users\auneubau\Desktop\WIPER\wiper_control_RemOs3_Camera\Debug\wiper_control.exe
