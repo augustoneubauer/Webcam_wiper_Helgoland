@@ -31,24 +31,20 @@ Controlled aspects:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage Instructions:
 
-1st argument: Mode selection
+1st argument: call the program "wiper_control" (in C:'YOUR PATH'\webcam_wiper_Helgoland\Debug)
+
+2nd argument: Mode selection
 > select the displacement mode: 'ROT' to move full rotations or 'DEG' for angular displacement under 360 degrees
 
-2nd argument: Wipers displacement
+3rd argument: Wipers displacement
 > if 'ROT' is selected, insert a value between -20 and 20 rotations;
 > if 'DEG' is select, insert a value beteween -360 and 360 degrees;
 NOTE: A negative value for displacement will set a  Clockwise (-) spinning direction. A positive value will set a Counterclockwise movement
 
-3rd argument: Wipers spinning speed
+4th argument: Wipers spinning speed
 > Rotations per minute [RPM]. Please, insert a value between Zero and 10 RPM
 
 e.g. to move the wipers 3 full turns at 4 RPM clockwise:      wiper_control ROT -3 4
 e.g. to move the wipers 45 degrees at 5 RPM counterclockwise: wiper_control DEG 45 5
 
--------!!! Still under development !!!--------
 
-1st argument others mode selection: "SETHOME" , "GOHOME" , SENSOR"  (only one argument functions)
-
-> if "SETHOME" is selected, the current position is defined as Home Position;
-> if "GOHOME" is selected, the shaft moves to reach the Home Position;
-> if "SENSOR" is selected, the program answers with the system sensor type (currently: 3 (Hall sensors)
