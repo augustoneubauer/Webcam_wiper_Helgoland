@@ -284,7 +284,7 @@ bool DrivePosition(DWORD& pErrorCode, long new_targetPosition, long shaft_speed)
     bool absolute = false; // FALSE sets to a relative movement;  TRUE starts an absolute movement
     bool immediately = true; // TRUE stars movement immediatly; FALSE waits to end of last positioning
 
-    DWORD profileVelocity = shaft_speed * 231 * (100/25); 
+    DWORD profileVelocity = shaft_speed * 231 * (100/25); // 231 is the reduction rate in the motor. 100/25 is the gear ratio of the webcam's wiper
     DWORD profileAcc = 10000;
     DWORD profileDec = 10000;
     long targetPosition = new_targetPosition;
